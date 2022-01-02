@@ -28,6 +28,7 @@ public class DesigningMenuRunner {
 		System.out.println("2- Multiply");
 		System.out.println("3- Divide");
 		System.out.println("4- Subtract");
+		System.out.println("checking git");
 
 		System.out.println("Enter your Choice");
 		int choice = scanner.nextInt();
